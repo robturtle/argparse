@@ -1,4 +1,4 @@
-This parsing library is yet another command line argument parser originally for my own project's needs. I just got surprised by the existed parsing libraries which either presumes a strict format (like `CLI`) or reject to bring some complex concepts such as "mutually exclusive options" (like `args4j`).
+This parsing library is yet another command line argument parser originally for my [own project](https://github.com/robturtle/consistency-test-demo)'s needs. 
 
 This library brings all the features below:
 
