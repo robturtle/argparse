@@ -1,0 +1,17 @@
+version '1.0'
+
+apply plugin: 'java'
+
+group 'me.yangliu'
+
+apply plugin: 'java'
+
+repositories {
+  mavenCentral()
+}
+
+sourceCompatibility = 1.8
+
+dependencies {
+  compile 'com.intellij:annotations:12.+'
+}
